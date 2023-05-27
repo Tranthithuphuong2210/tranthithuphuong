@@ -1,0 +1,9 @@
+
+<resources >
+
+    <style name="Theme.BusSchedule" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+    </style>
+</resources>
